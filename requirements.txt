@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+python-whois
+ipwhois
+exifread
+duckduckgo-search
+whois
+lxml
